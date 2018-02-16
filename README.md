@@ -1,4 +1,4 @@
-# Meetups Techno Jam
+# Techno Jam
 
 ⁉ QU'EST CE QU'UNE TECHNO JAM ?
 
