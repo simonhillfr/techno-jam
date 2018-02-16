@@ -6,10 +6,10 @@ Les Techno Jams sont des challenges réguliers et suivis pour apprendre ensemble
 
 🎶 POURQUOI FAIRE UNE TECHNO JAM ?
 
-> Profiter de l'énergie collective pour apprendre un langage de programmation par la méthode du peer learning
-> Learn By Doing : apprendre en réalisant un projet concret
-> Rencontrer des gens qui partagent nos centres d'intérêt dans l’audio, la musique et la programmation
-> Documenter notre progression et faire grandir la communauté
+- Profiter de l'énergie collective pour apprendre un langage de programmation par la méthode du peer learning
+- Learn By Doing : apprendre en réalisant un projet concret
+- Rencontrer des gens qui partagent nos centres d'intérêt dans l’audio, la musique et la programmation
+- Documenter notre progression et faire grandir la communauté
 
 
 ⛔ CE QUE CE N’EST PAS :
@@ -18,14 +18,14 @@ Les Techno Jams ne sont pas des cours ni des formations au sens classique du ter
 
 👩‍🎓 QUI PEUT VENIR ?
 
-> Programmeur / hacker / bidouilleurs de tous niveaux
-> Musiciens, Sound Designers, Ingénieurs du son
-> Curieux de tout bord
+- Programmeur / hacker / bidouilleurs de tous niveaux
+- Musiciens, Sound Designers, Ingénieurs du son
+- Curieux de tout bord
 
 🚀 QU’EST-CE QU’ON VOUS DEMANDE ?
 
-> D’amener votre ordinateur portable
-> De garder une trace de vos recherches, des tutos que vous trouvez, du chemin parcouru au fur et à mesure afin que l’on puisse rédiger ensuite des tutoriaux et des guides à l’usage de communauté
+- D’amener votre ordinateur portable
+- De garder une trace de vos recherches, des tutos que vous trouvez, du chemin parcouru au fur et à mesure afin que l’on puisse rédiger ensuite des tutoriaux et des guides à l’usage de communauté
 
 🍺 LES ORGANISATEURS 
 
